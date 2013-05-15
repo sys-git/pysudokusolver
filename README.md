@@ -13,3 +13,8 @@ At the moment, the Update, Solved and Unsolvable exceptions/Messages that cross 
 
 Any comments about the UI (which is purely to aid debugging - not designed to be written properly, asynchronous, etc), setup.py, non-optimisation, lack of configuration/documentation, in fact-anything will be sent to /dev/null.
 To add strategies which use the model: grid.py, place these in newer/solver/strategies/impls with same filename as classname (upper-case first char of filename).
+
+
+In case you're feeling generous:
+LTC: LT636SrauWAz9XDz2EKxAXQ5jKqehyhR69
+BTC: 13vS6cvzZXf1Yxrar2SYSPQrFLSEwLePV4
